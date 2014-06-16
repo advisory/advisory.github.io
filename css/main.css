@@ -1,0 +1,17 @@
+@import url(reset.css);
+
+
+body{
+  background: #CE1126;
+}
+h1 {
+  background: url(../images/logo.png) no-repeat;
+  height: 350px;
+  left: 50%;
+  margin-left: -360px;
+  margin-top: -175px;
+  position: absolute;
+  text-indent: -9999px;
+  top: 50%;
+  width: 720px;
+}
